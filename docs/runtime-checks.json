@@ -1,0 +1,65 @@
+{
+  "allPassed" : true,
+  "checks" : [
+    {
+      "name" : "原生管理视图渲染",
+      "passed" : true
+    },
+    {
+      "name" : "初始桌面窗口数量",
+      "passed" : true
+    },
+    {
+      "name" : "新建组件同步创建窗口",
+      "passed" : true
+    },
+    {
+      "name" : "编辑与持久化",
+      "passed" : true
+    },
+    {
+      "name" : "置顶窗口层级",
+      "passed" : true
+    },
+    {
+      "name" : "锁定尺寸与位置",
+      "passed" : true
+    },
+    {
+      "name" : "窗口移动尺寸保存",
+      "passed" : true
+    },
+    {
+      "name" : "隐藏组件关闭窗口",
+      "passed" : true
+    },
+    {
+      "name" : "显示组件恢复窗口位置",
+      "passed" : true
+    },
+    {
+      "name" : "文件引用去重",
+      "passed" : true
+    },
+    {
+      "name" : "移除引用保留源文件",
+      "passed" : true
+    },
+    {
+      "name" : "删除组件同步关闭窗口",
+      "passed" : true
+    },
+    {
+      "name" : "隐藏全部组件",
+      "passed" : true
+    },
+    {
+      "name" : "显示全部组件",
+      "passed" : true
+    },
+    {
+      "name" : "本地备份存在",
+      "passed" : true
+    }
+  ]
+}
